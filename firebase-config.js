@@ -1,13 +1,11 @@
-// Cole aqui o objeto firebaseConfig que o Firebase mostra em
-// Configurações do projeto > Geral > Seus apps > App da Web.
 export const firebaseConfig = {
-  apiKey: "COLE_AQUI",
-  authDomain: "COLE_AQUI.firebaseapp.com",
-  projectId: "COLE_AQUI",
-  storageBucket: "COLE_AQUI.appspot.com",
-  messagingSenderId: "COLE_AQUI",
-  appId: "COLE_AQUI"
+  apiKey: "AIzaSyC2ht0aQEmz06i7ZjIGcaBIaV1w_jqWAOI",
+  authDomain: "lista-supermercado-91819.firebaseapp.com",
+  projectId: "lista-supermercado-91819",
+  storageBucket: "lista-supermercado-91819.firebasestorage.app",
+  messagingSenderId: "71427750230",
+  appId: "1:71427750230:web:d2592a13e8c64b01b0bef7",
+  measurementId: "G-T458QDC8QP"
 };
 
-// Nome interno da lista no banco. Pode deixar como está.
 export const LIST_ID = "principal";
